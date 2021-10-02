@@ -30,12 +30,12 @@ Here are some ideas to get you started:
 const azariaSaidi = {
   lookingFor: "Front-end developer" || "Full-stack web developer",
   pronouns: ["he", "his"],
-  code: [JavaScript, React, Redux, Ruby on Rails, PHP, Symfony 5, Twig, 
-  HTML/CSS, Semantic UI, Bootstrap, Material UI, Python],
-  askMeAbout: [Chihuahuas, The 1975, food recipes, renovation shows],
+  languages: [JavaScript, Ruby on Rails, Php 7, HTML/CSS, Python, Java],
+  frameWorks: [React, Redux, Symfony 5, Twig, Bootstrap, Semantic UI, Material UI, Webpack]
+  hobbies: [Movies, hiking, food recipes, Music, Watch Documentary, Travel, Walking ],
   challenge: "I am honing my React skills and picking up Vue",
   funFacts: ['I have 2+ years of remote work experience with devs 
-  from all over the world']
+  from all over the world','4 years of experience in Php','2 years of experience in Java']
 }
 ```
 ### This week I spent my time on<img src="https://media.giphy.com/media/SvQzkTQb3ZwKcj1QTO/giphy.gif" width="40">
