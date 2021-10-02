@@ -31,7 +31,7 @@ const azariaSaidi = {
   lookingFor: "Front-end developer" || "Full-stack web developer",
   pronouns: ["he", "his"],
   languages: [JavaScript, Ruby on Rails, Php 7, HTML/CSS, Python, Java],
-  frameWorks: [React, Redux, Symfony 5, Twig, Bootstrap, Semantic UI, Material UI, Webpack]
+  frameWorks: [React, Redux, Symfony 5, Twig, Bootstrap, Semantic UI, Material UI, Webpack],
   hobbies: [Movies, hiking, food recipes, Music, Watch Documentary, Travel, Walking ],
   challenge: "I am honing my React skills and picking up Vue",
   funFacts: ['I have 2+ years of remote work experience with devs 
