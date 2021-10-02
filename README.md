@@ -32,7 +32,7 @@ const azariaSaidi = {
   pronouns: ["he", "his"],
   languages: [JavaScript, Ruby on Rails, Php 7, HTML/CSS, Python, Java],
   frameWorks: [React, Redux, Symfony 5, Twig, Bootstrap, Semantic UI, Material UI, Webpack],
-  hobbies: [Movies, hiking, food recipes, Music, Watch Documentary, Travel, Walking ],
+  hobbies: [Movies, Hiking, Food Recipes, Music, Watch Documentary, Travel, Walking ],
   challenge: "I am honing my React skills and picking up Vue",
   funFacts: ['I have 2+ years of remote work experience with devs 
   from all over the world','4 years of experience in Php','2 years of experience in Java']
